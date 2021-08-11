@@ -1,16 +1,13 @@
+⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+<hr />
 <h1 align="center"> Seja bem vindo ao meu Github </h1>
 <hr />
-<a href="https://www.linkedin.com/in/ivanildocandido/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>
-<hr />
-
-**Meus interesses pessoais:**
 
 <img align="right" alt="avatar" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628588138162.png" width="300px"/>
 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para systechtecnologia@gmail.com.
-- 📝 Veja meu <a href="https://github.com/IvanildoCandido/IvanildoCandido/blob/main/ivanildo-candido.pdf" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://github.com/IvanildoCandido/IvanildoCandido/raw/main/ivanildo-candido.pdf" target="_blank" download>Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoCandido&layout=compact&theme=graywhite&title_color=268bd2" alt="Ivanildo Cândido" />
@@ -40,12 +37,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
 </p>
-
-
-
-
-
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
 
